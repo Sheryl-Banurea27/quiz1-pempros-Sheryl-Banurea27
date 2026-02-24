@@ -1,0 +1,10 @@
+berpikirlah seperti kamu adalah seorang programmer bahasa c yang mampu menyelesaikan masalah yang rumit. soalnya adalah buatlah program yang mampu menentukan total nilai hanya untuk kelompok yang diminta.
+Data nilai siswa disimpan dalam sebuah rak fisik yang tersusun rapat. Perhatikan pola penyimpanan pada gambar di bawah ini untuk memahami bagaimana kelompok siswa dipisahkan. Input:
+1.Jumlah total data (N).
+2.Deret nilai (n1, n2, …, n).
+3.Kode kelompok siswa                                                                                                                                   lihatlah nilai nya seperti nya dari belaakang ke depan itu -10 lalu + 15 dan begitu selanjutnya
+
+apa fungsi jumlah deret angka pada gambar yang kusertakan
+bagaimana penerapan pola ersebut daalam soal?
+kenapa kamu asumsikan kalo pembagian kelompok nyaa itu ganjil genap?
+kalau berdasarkan nama?

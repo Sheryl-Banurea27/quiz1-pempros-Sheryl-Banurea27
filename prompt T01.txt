@@ -1,0 +1,12 @@
+berpikirlah seolah olah kamu adalah seorang programer bahasa c yang berpikir kritis,dan mampu menyelesaikan masalah . soalnya adalah, buatlah program bahasa C dimana ucok dan butet ingin membeli makanan. perbandingan porsi ucok dan butet adalah 1:2, jadi setiap kali butet membeli suatu makanan,maka ucok akan membeli nya dikali 2 porsi,sehingga ketika membayar berarti jumlahnya adalah porsi butet + porsi ucok.  dimana saat berbelanja ada kupon yang bisa didapatkan, jika berbelanja 100 ribu dapat kupon biru, kalau 200 ribu dapet kupon kuning,dst. Format Inputan berupa Kode menu di lanjut dengan Porsi Butet Perhatikan contoh berikut: Input
+NGS 
+[Porsi Butet]
+AP
+[Porsi Butet]
+GG
+[Porsi Butet]
+END
+Output Format ouput : tampilkan struk pada terminal dengan format berikut ,seperti gambar yang tertera. gunakan kode kode yang tersedia untuk mewakili setiap makanan seperti ngs,ap, dan lainnya.
+
+jika misalnya ucok duluan yang memesan bagaimana?
+char nama[30]; kenapa harus 30?

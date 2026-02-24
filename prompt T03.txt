@@ -1,0 +1,5 @@
+berpikirlah seolah olah kamu adalah seorang programer bahasa c yang mampu berpikir kritis dan menyelesaikan masalah, buatlah program dimana ini adalah sebuah sistem yang dapat mendukung sistem operasional sehari hari di laundry DEL. dimana sistem nya adalah ketika naju laundry datang ,akan di catat nama dari laundrybag, mencatat berat, jenis jenis pakaian apa saja. buatlah sisitem dimana akan menyimpan data laundry pada hari itu,jadi user pertamama akan memasukkan tanggal, nama nama pelanggan, berat pakaian, dan jenis jenis  pakaian (CP = Celana panjang, B= baju , S= selimu, R= rok, KK= kaos kaki).dimana di akhir akan dibuatkan list barang apa saja yang hendak di cuci , berapa kg berat nya dan harga yang harus dibayar x 15 ribu / kilo pakaian
+
+dimana program berhenti ketika user memasukkan tanggal yang baru
+program menampilkan output untuk meminta user menginput jumlah jenis pakaian nya, contoh program CP= (input user = 3). jadi list nya nanti terlihat berapa pakaian di jenis tersebut
+tambahkan fitur untuk user memasukkan jenis lainnya dalam bentuk string
